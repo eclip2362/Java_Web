@@ -19,5 +19,5 @@
 		<url-pattern>*.gif</url-pattern>
 		<url-pattern>*.jpg</url-pattern>
 		<url-pattern>*.jpeg</url-pattern>
-	</servlet-mapping>
+</servlet-mapping>
 </web-app>  

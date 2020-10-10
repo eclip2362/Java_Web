@@ -36,7 +36,7 @@ public ModelAndView saveimage( @RequestParam  CommonsMultipartFile file,
     stream.close();  
     ModelAndView mv=new ModelAndView("display-image");
     mv.addObject("filename",filename);
-    mv.addObject("path",path);
+    
     return mv; 
     
     
